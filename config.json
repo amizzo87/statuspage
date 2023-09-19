@@ -17,7 +17,7 @@
     "dayInHistogramOperational": "All good",
     "dayInHistogramNotOperational": " incident(s)"
   },
-  "monitors": [
+  "monitors": [    
     {
       "id": "plex-izzo-one-bazarr",
       "name": "Bazarr",
